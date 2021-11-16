@@ -2,7 +2,7 @@ body
 {
     overflow-x: hidden;
     background:#000;
-    color: #59616b;
+    color: rgb(180, 180, 180);
 }
 
 .SearchApp
