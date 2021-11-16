@@ -5,6 +5,11 @@ body
     color: rgb(180, 180, 180);
 }
 
+p
+{
+    font-size: 22px;
+}
+
 .SearchApp
 {
     display: flex;
