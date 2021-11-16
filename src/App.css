@@ -1,6 +1,8 @@
 body
 {
     overflow-x: hidden;
+    background:#000;
+    color: #59616b;
 }
 
 .SearchApp
@@ -16,6 +18,9 @@ body
     outline: none;
     border-radius: 7px;
     padding: 15px 30px;
+    background:#000;
+    color: #59616b;
+    margin-bottom: 10px;
 }
 
 .user
